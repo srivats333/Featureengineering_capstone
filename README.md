@@ -14,7 +14,7 @@ This project focuses on data preprocessing and feature engineering techniques to
 2. Run all cells sequentially
 
 ## Requirements
-- Python 3.x
+- Python 3
 - pandas
 - numpy
 - scikit-learn
